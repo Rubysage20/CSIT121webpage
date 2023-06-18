@@ -44,5 +44,9 @@ Step 8. <br>
 		<p> This recipe is my favorite! I love love RED VELVET and CHEESECAKE! THE TWO TOGETHER MAKES THE ANGELS SING BRINGING HEAVEN TO EARTH!. IF YOU HAVE ANOTHER RED VELVET CHEESECAKE RECIPE I WOULD LOVE TO TRY IT </p> 
 <a> <a href= "http://www.delish.com/cooking/recipe-ideas/"> Free Recipes </a></body>
 }
-body {font-family: Arial; font-size:14pt; color: pink;}
-p {color: black; text-transform: default; }
+body {font-family: Georgia; font-size:14pt; color: pink; background-color: black;}
+p {color: white; text-transform: uppercase; }
+p {text-shadow: 4px 6px 100px; } 
+h1,ul {color: deeppink;}
+ol {color: darkmagenta}
+body{ margin-top: 20px; margin-left 100px; margin-right 100px; margin bottom; 150px;}
